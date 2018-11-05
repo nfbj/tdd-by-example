@@ -16,4 +16,5 @@ For questions and help:
 * Please post in course
 * Or post in the Slack Community exclusive to the course.
 
+-github commit test
 GitHub Issues will not be addressed.
